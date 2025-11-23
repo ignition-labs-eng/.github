@@ -8,5 +8,5 @@ All projects are private while active development continues.
 For inquiries or collaboration requests, please contact the organization owner.
 
 <p align="center">
-  <img src="./builtbygervonte-logo-white.png" width="180" alt="BuiltByGervonte logo" />
+  <img src="./white-logo-dark-outline-transparent.png" width="160" alt="BuiltByGervonte logo" />
 </p>
